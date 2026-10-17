@@ -1,0 +1,26 @@
+@media (min-width:200px) and (max-width:750px){
+  main{
+    width: 100%;
+  }
+  header{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    margin-top: 0rem;
+    border-radius: 0px;
+    justify-content: left;
+    gap: 0.5rem;
+  }
+  header > nav{
+    width: 90%;
+    overflow: hidden;
+  }
+  #card-container{
+    grid-template-columns: repeat(2, 1fr);
+  }
+  footer{
+    flex-direction: column;
+    height: initial;
+  }
+
+}

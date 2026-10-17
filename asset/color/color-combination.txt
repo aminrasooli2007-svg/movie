@@ -1,0 +1,4 @@
+Primary: rgb(67, 46, 84)
+Secondary: rgb(75, 67, 118)
+bg-one: rgb(174, 68, 90)
+text-color: rgb(232, 188, 185)
